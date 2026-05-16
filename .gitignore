@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+odbd
+odbc
+
+# Go
+*.test
+*.out
+go.work
+go.work.sum
+
+# Build output
+/bin/
+/dist/
+
+# Data
+/data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
